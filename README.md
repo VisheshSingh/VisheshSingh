@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React, TypeScript, Node.js, Express<br>👯 I’m looking to collaborate on JavaScript<br>🌱 I’m currently learning Github Actions & working towards my 3rd AWS certification - Developer associate<br> 📫 How to reach me: visheshsingh16@gmail.com<br> 😄 Pronouns: He/Him
+🔭 I’m currently working on React, TypeScript, Node.js, Express<br>👯 I’m looking to collaborate on JavaScript<br>🌱 3X AWS Certified + CNCF certified Kubernetes Developer<br> 📫 How to reach me: visheshsingh16@gmail.com<br> 😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
